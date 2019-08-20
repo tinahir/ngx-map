@@ -1,0 +1,22 @@
+{
+  "name": "ngx-map",
+  "version": "0.0.1",
+  "description": "Maps for Angular",
+  "keywords": [
+    "angular",
+    "esri map"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinahir/ngx-map.git"
+  },
+  "author": "Mahendra Hirapra<hir.mahendra@yahoo.com>",
+  "license": "MIT",
+  "peerDependencies": {},
+  "devDependencies": {
+    "lerna": "^3.16.4",
+    "prettier": "^1.18.2",
+    "rxjs": "^6.5.2",
+    "typescript": "^3.5.3"
+  }
+}
