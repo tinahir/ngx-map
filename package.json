@@ -4,7 +4,8 @@
   "description": "Maps for Angular",
   "keywords": [
     "angular",
-    "esri map"
+    "esri map",
+    "leaflet map"
   ],
   "repository": {
     "type": "git",
