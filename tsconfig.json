@@ -20,6 +20,5 @@
       "es2018",
       "dom"
     ],
-  },
-  "files": ["src/index.ts"]
+  }
 }
